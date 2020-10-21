@@ -1,0 +1,43 @@
+html, body, menu {margin: 0px; padding: 0px;}
+
+.header_img {
+   position: relative;
+   width: auto;
+   height: auto;
+   margin: 10px auto; 
+}
+
+
+.menu_header nav menu {
+text-align: center;
+}
+
+.menu_header h3 {
+    display: inline-block;
+    padding: 19.5px;
+    margin: 0;
+
+}
+
+.contenido {
+    margin: 0px 15px;
+    margin-left: 50px;
+}
+
+aside img {
+    float: left;
+    margin-left: 10;
+    }
+
+    section img {
+        margin: 20;
+    }
+
+    footer{
+        text-align: center;
+    }
+
+    footer h3 {
+        display: inline-block;
+    }
+    
